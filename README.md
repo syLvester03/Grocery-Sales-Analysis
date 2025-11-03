@@ -24,6 +24,12 @@ Performed using Python.
 - Top Selling Categories: Confectionery, Meat, Poultry, etc.
 - Revenue Trend by Month
 
+## Power BI Dashboard
+
+The interactive Power BI Revenue Report dashboard can be viewed or downloaded from the link below:
+
+https://drive.google.com/file/d/1e6pa5ryYONVgwN-uheknZvuw120ScooA/view?usp=sharing  
+
 ## Tools & Technologies Used
 - Python – Data analysis and transformation Jupyter Notebook – EDA environment Pandas – Data manipulation Matplotlib – Basic visualization Power BI – Measures, Transformation and Interactive dashboard creation
 
@@ -35,3 +41,4 @@ Performed using Python.
 - Identified top-performing cities, categories, and products contributing to overall revenue.
 - Established a clear revenue trend for monthly performance tracking.
 - Enabled data-driven insights for strategic business decisions through Power BI.
+
